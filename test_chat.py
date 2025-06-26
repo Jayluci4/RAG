@@ -19,4 +19,3 @@ messages = [
 
 # Get response
 response = llm.chat(messages)
-print(response) 
